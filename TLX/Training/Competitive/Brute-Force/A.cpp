@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int m1[75][75],m2[75][75],col,row,row1;
-//ifstream fin("input.in");
 
 bool sama(){
 	int res=0;
