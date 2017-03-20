@@ -32,7 +32,6 @@ void satu(){
 }
 
 ull dua(){
-	//ini yang salah
 	byk++;
 	for(int a=1;a<=105;a++){
 		harga[a][a]=0;
